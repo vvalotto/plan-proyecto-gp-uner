@@ -1,39 +1,39 @@
 ## Plan de Proyecto
 
 - [[Home]]
-- [[PlandeProyecto|Plan Maestro]]
+- [[Plan de Proyecto|PlanMaestro]]
 
 ## 00 - Caso y Equipo
-- [[00CasodeEstudio|Caso de Estudio]]
-- [[00Equipo|Equipo del Grupo]]
+- [[Caso de Estudio|00CasodeEstudio]]
+- [[Equipo|00Equipo]]
 
 ## 01 - Plan Inicial (E1)
-- [[01Organizacion|Organizacion]]
-- [[01CiclodeVida|Ciclo de Vida]]
-- [[01Entregables|Entregables]]
+- [[Organización del Proyecto |01Organizacion]]
+- [[Ciclo de Vida|01CiclodeVida]]
+- [[Entregables |01Entregables]]
 
 ## 02 - WBS y Estimaciones (E2)
-- [[02WBS|WBS]]
-- [[02Cronograma|Cronograma (Gantt)]]
-- [[02ReddeTareas|Red de Tareas]]
-- [[02Delphi|Estimacion Delphi]]
+- [[Estructura de Desglose de Trabajo|02WBS]]
+- [[Cronograma|02Cronograma]
+- [[Red de Tareas|02ReddeTareas]]
+- [[Estimación Deplhi|02Delphi]]
 
 ## 03 - Recursos y RACI (E3)
-- [[03MatrizRACI|Matriz RACI]]
-- [[03AsignacionRecursos|Asignacion de Recursos]]
+- [[Matriz RACI|03MatrizRACI]]
+- [[Asiganción de Recursos|03AsignacionRecursos]]
 
 ## 04 - Riesgos (E4)
-- [[04RegistroRiesgos|Registro de Riesgos]]
-- [[04MatrizExposicion|Matriz de Exposicion]]
-- [[04PlanRespuesta|Plan de Respuesta]]
+- [[Gestión de Riesgos|04RegistroRiesgos]]
+- [[Matriz de Exposición|04MatrizExposicion]]
+- [[Plan de Respuesta|04PlanRespuest]]
 
 ## 05 - Comunicaciones (E5)
-- [[05PlanComunicaciones|Plan de Comunicaciones]]
-- [[05GestionCambios|Gestion de Cambios]]
+- [[Plan de Comunicaciones|05PlanComunicacione]]
+- [[Gestión de Cambios|05GestionCambios]]
 
 ## 06 - PechaKucha (EF)
-- [[06GuionPechaKucha|Guion PechaKucha]]
+- [[Guión PechaKucha|06GuionPechaKucha]]
 
 ## Plantillas
-- [[PlantillaFormularioCambio|Formulario de Cambio]]
-- [[PlantillaActaReunion|Acta de Reunion]]
+- [[Plantilla Formulario de Cambio|PlantillaFormularioCambio]]
+- [[Plantilla Acta de Reunión|PlantillaActaReunion]]
